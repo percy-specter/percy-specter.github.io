@@ -1,2 +1,2 @@
 # percy-specter.github.io
-Webiste
+Website
